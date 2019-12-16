@@ -1,0 +1,71 @@
+{
+"projects":[
+    {
+        "id": 0,
+        "project_name": "Random Quote Generator",
+        "description": "App that displays random famous quotes each time a button is clicked or when a setup time has passed",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "live_link": "https://jordiguirao92.github.io/Techdegree-RandomQuoteGenerator/", 
+        "github_link": "https://github.com/jordiguirao92/Techdegree-RandomQuoteGenerator", 
+        "images_urls": [
+            "../images/Project1.1.png",
+            "../images/Project1.2.png",
+            "../images/Project1.3.png"
+        ]
+    },
+    {
+        "id": 1,
+        "project_name": "List Pagination and Filtering",
+        "description": "A page that contains a list of 54 studens names, photos and email addresses.The page display 10 names at a time and have a navigation system  to let users click through the other student entris, 10 at a time. Also you can send a student by name in the search bar.",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "live_link": "https://jordiguirao92.github.io/Techdegree-ListPaginationAndFiltering/", 
+        "github_link": "https://github.com/jordiguirao92/Techdegree-ListPaginationAndFiltering", 
+        "images_urls": [
+            "../images/Project2.1.png",
+            "../images/Project2.2.png",
+            "../images/Project2.3.png"
+        ]
+    },
+    {
+        "id": 2,
+        "project_name": "Interactive Form" ,
+        "description": "Interactive Form that let an user to register for a full stack conference. User can introduce name, email, job role. User can select a t-shirt design and after that the color. Also, user can register for some activities and the total price will be update. Finally user can select between 3 payment methods ",
+        "technologies": ["JavaScript", "HTML", "CSS", "jQuery"],
+        "live_link": "https://jordiguirao92.github.io/Techdegree-InteractiveForm/", 
+        "github_link": "https://github.com/jordiguirao92/Techdegree-InteractiveForm", 
+        "images_urls": [
+            "../images/Project3.1.png",
+            "../images/Project3.2.png",
+            "../images/Project3.3.png"
+        ]
+    },
+    {
+        "id": 3,
+        "project_name": "Game Show App",
+        "description": "The app will select a random, hidden phrase, which a player tries to guess by clicking letters on an onscreen keyboard. The player continues to selec letter until they guess the phrase (and win), or make five incorrect guesses (and lose). Players can use an onscreen keyboard or the table keyboard.",
+        "technologies": ["JavaScript", "HTML", "CSS", "OOP"],
+        "live_link": "https://jordiguirao92.github.io/Techdegree-OOPGameShowApp/", 
+        "github_link": "https://github.com/jordiguirao92/Techdegree-OOPGameShowApp", 
+        "images_urls": [
+            "../images/Project4.1.png",
+            "../images/Project4.2.png",
+            "../images/Project4.3.png"
+        ]
+    },
+    {
+        "id": 4,
+        "project_name": "Public API Request",
+        "technologies": ["JavaScript", "HTML", "CSS", "JSON", "AJAX-API"],
+        "description": "App for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other.",
+        "live_link": "https://jordiguirao92.github.io/Techdegree-PublicAPIRequests/", 
+        "github_link": "https://github.com/jordiguirao92/Techdegree-PublicAPIRequests", 
+        "images_urls": [
+            "../images/Project5.1.png",
+            "../images/Project5.2.png",
+            "../images/Project5.3.png"
+        ]
+    } 
+] 
+
+}
+
