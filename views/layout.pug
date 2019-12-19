@@ -8,20 +8,21 @@ html(class="no-js" lang="en" dir="ltr")
     link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
     link(rel='stylesheet', href='/static/css/foundation.css')
     link(rel='stylesheet', href='/static/css/style.css')
+    link(rel='stylesheet', href='/static/css/animate.css')
   body
     #my-info.off-canvas.position-left.reveal-for-large.portfolio-me(data-off-canvas='')
       .grid-y.grid-padding-x(style='height: 100%;')
         block sidebar
           br
           .cell.shrink
-            img.thumbnail(src='images/Jordi.png')
+            img.thumbnail.animated.fadeInDown(src='images/Jordi.png')
           .cell.auto
 
             //- Add your name here.
-            h5 Jordi Guirao
+            h5.animated.fadeInDown Jordi Guirao
 
             //- Add text here to describe who you are, what you do, and why you are so awesome.
-            p.text-light
+            p.text-light.animated.fadeInDown
               | I am Jordi Guirao, Engineer with an International MBA Master in Industrial Business and Administration, specialized in Blockchain and Distributed Ledger Technology Engineering at the Blockchain Institute & Technology in Barcelona (BIT BCN). 
               | I have strong experience in Power Generation working in a world leading company in the sector.
               | HashMarket Founder & COO. DeFi & DLTs beliver.
