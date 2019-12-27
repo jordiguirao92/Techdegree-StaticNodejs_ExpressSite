@@ -14,7 +14,6 @@ app.set('view engine', 'pug');
 
 //Static files in the public folder.
 //app.use('/static', express.static('public')); //We can load the data in the public folder using the acces /static. 
-//app.use('/static', express.static('public'));
 //Getting the absolute path of the directory.
 app.use('/static', express.static(path.join(__dirname, 'public')));
 
