@@ -8,20 +8,16 @@ const data = require('./data.json');
 const projects = data.projects;
 
 
-//Starting server in port 3000. node app.js. Stop server ctrl+C
-app.listen(3000, () => {
-    console.log("Tha app is running in the localhost:3000");
-});
-
 //Setting the view engine
 app.set('view engine', 'pug');
 
 
 //Static files in the public folder.
 //app.use('/static', express.static('public')); //We can load the data in the public folder using the acces /static. 
+//app.use('/static', express.static('public'));
 //Getting the absolute path of the directory.
 app.use('/static', express.static(path.join(__dirname, 'public')));
-app.use('/images', express.static(path.join(__dirname, 'images')));
+
 
 
 //GET
@@ -63,3 +59,9 @@ app.get('/projects/:id', (req, res, next) => {
       res.render("error.pug");
       
   });
+
+
+  //Starting server in port 3000. node app.js. Stop server ctrl+C
+app.listen(3000, () => {
+  console.log("Tha app is running in the localhost:3000");
+});

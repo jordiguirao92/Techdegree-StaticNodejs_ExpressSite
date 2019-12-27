@@ -8,9 +8,9 @@
         "live_link": "https://jordiguirao92.github.io/Techdegree-RandomQuoteGenerator/", 
         "github_link": "https://github.com/jordiguirao92/Techdegree-RandomQuoteGenerator", 
         "images_urls": [
-            "../images/Project1.1.png",
-            "../images/Project1.2.png",
-            "../images/Project1.3.png"
+            "../static/images/Project1.1.png",
+            "../static/images/Project1.2.png",
+            "../static/images/Project1.3.png"
         ]
     },
     {
@@ -21,9 +21,9 @@
         "live_link": "https://jordiguirao92.github.io/Techdegree-ListPaginationAndFiltering/", 
         "github_link": "https://github.com/jordiguirao92/Techdegree-ListPaginationAndFiltering", 
         "images_urls": [
-            "../images/Project2.1.png",
-            "../images/Project2.2.png",
-            "../images/Project2.3.png"
+            "../static/images/Project2.1.png",
+            "../static/images/Project2.2.png",
+            "../static/images/Project2.3.png"
         ]
     },
     {
@@ -34,9 +34,9 @@
         "live_link": "https://jordiguirao92.github.io/Techdegree-InteractiveForm/", 
         "github_link": "https://github.com/jordiguirao92/Techdegree-InteractiveForm", 
         "images_urls": [
-            "../images/Project3.1.png",
-            "../images/Project3.2.png",
-            "../images/Project3.3.png"
+            "../static/images/Project3.1.png",
+            "../static/images/Project3.2.png",
+            "../static/images/Project3.3.png"
         ]
     },
     {
@@ -47,9 +47,9 @@
         "live_link": "https://jordiguirao92.github.io/Techdegree-OOPGameShowApp/", 
         "github_link": "https://github.com/jordiguirao92/Techdegree-OOPGameShowApp", 
         "images_urls": [
-            "../images/Project4.1.png",
-            "../images/Project4.2.png",
-            "../images/Project4.3.png"
+            "../static/images/Project4.1.png",
+            "../static/images/Project4.2.png",
+            "../static/images/Project4.3.png"
         ]
     },
     {
@@ -60,9 +60,9 @@
         "live_link": "https://jordiguirao92.github.io/Techdegree-PublicAPIRequests/", 
         "github_link": "https://github.com/jordiguirao92/Techdegree-PublicAPIRequests", 
         "images_urls": [
-            "../images/Project5.1.png",
-            "../images/Project5.2.png",
-            "../images/Project5.3.png"
+            "../static/images/Project5.1.png",
+            "../static/images/Project5.2.png",
+            "../static/images/Project5.3.png"
         ]
     } 
 ] 
